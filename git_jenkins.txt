@@ -1,0 +1,9 @@
+#git 参数
+origin = origin
+branch = master
+
+# jenkins参数
+host = 172.20.3.29:8082
+user = quke
+psd = dsj123
+job = cdss_local_backend_lower_version_adaptation_docker_image
